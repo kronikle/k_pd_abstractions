@@ -1,0 +1,6 @@
+#N canvas 543 163 450 300 12;
+#X obj 37 38 inlet;
+#X msg 37 62 Hello World! this is your first global abstraction;
+#X obj 37 86 print;
+#X connect 0 0 1 0;
+#X connect 1 0 2 0;
